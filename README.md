@@ -14,7 +14,7 @@ Navigation Bar: Easy access to "Home," "Recipe," and "Contact" sections.
 
 - Contact Form: Collects user information like name,number and email for inquiries or feedback.
 
-### Responsive Design: Ensures the webpage looks good on various devices.
+ Responsive Design: Ensures the webpage looks good on various devices.
 
 ## Technologies Used
 
@@ -28,5 +28,5 @@ CSS: For styling and layout design.
   
 - If you like to contribute or suggest any improvements,please feel free to open an issue or create a poll request.your feedback is appreciated.
 
-### Thank You For Visiting My Portfolio Website!
+## Thank You For Visiting My Portfolio Website!
 

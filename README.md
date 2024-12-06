@@ -9,7 +9,7 @@ Reestar is a simple, visually appealing webpage designed to showcase food items 
 ### Features
 
 Navigation Bar: Easy access to "Home," "Recipe," and "Contact" sections.
-
+  
 - Food Menu: Displays a selection of dishes with images, descriptions, and "Order Now" buttons.
 
 - Contact Form: Collects user information like name,number and email for inquiries or feedback.
